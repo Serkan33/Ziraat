@@ -1,0 +1,37 @@
+c:\users\serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.exe.config
+C:\Users\Serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.exe
+C:\Users\Serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.pdb
+C:\Users\Serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.xml
+C:\Users\Serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.vbprojResolveAssemblyReference.cache
+C:\Users\Serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.Form1.resources
+C:\Users\Serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.Resources.resources
+C:\Users\Serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.vbproj.GenerateResource.Cache
+C:\Users\Serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.exe
+C:\Users\Serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.xml
+C:\Users\Serkan\documents\visual studio 2015\Projects\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.pdb
+C:\Users\Serkan\Desktop\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.exe.config
+C:\Users\Serkan\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.exe
+C:\Users\Serkan\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.xml
+C:\Users\Serkan\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.pdb
+D:\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.exe.config
+D:\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.exe
+D:\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.xml
+D:\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.pdb
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.exe.config
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.exe
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.xml
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.pdb
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\bin\Debug\ziraatOto.mdf
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\bin\Debug\ziraatOto_log.ldf
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.exe.manifest
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.application
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.exe
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.pdb
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\bin\Debug\ZiraatOtomasyon.xml
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.vbprojResolveAssemblyReference.cache
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.Form1.resources
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.Resources.resources
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.vbproj.GenerateResource.Cache
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.TrustInfo.xml
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.exe.manifest
+C:\Users\Dr Haci Abi\Desktop\ZiraatOtomasyon\obj\Debug\ZiraatOtomasyon.application
